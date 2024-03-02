@@ -1,0 +1,28 @@
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(120deg, #aba5fd, #2eff8c);
+}
+
+
+.title-container {
+  text-align: center;
+  color: #000000; 
+
+}
+
+.main-title {
+  font-size: 3em; /* Taille du titre principal, ajustez selon vos préférences */
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2em; /* Taille du sous-titre, ajustez selon vos préférences */
+  color: #666; /* Couleur du sous-titre, ajustez selon vos préférences */
+}
